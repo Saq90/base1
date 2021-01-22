@@ -25,6 +25,7 @@ feedparser==5.2.1
 gevent==1.4.0
 gevent-websocket==0.10.1
 greenlet==0.4.15
+gunicorn==20.0.4
 idna==2.8
 kiwisolver==1.1.0
 lxml==4.4.1
@@ -64,3 +65,4 @@ tqdm==4.36.1
 urllib3==1.25.6
 wasabi==0.2.2
 Werkzeug==0.16.0
+whitenoise==5.2.0
