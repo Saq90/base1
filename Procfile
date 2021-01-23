@@ -1,1 +1,1 @@
-"web: gunicorn contact.wsgi --log-file -" > Procfile
+web: gunicorn contact.wsgi --log-file -
